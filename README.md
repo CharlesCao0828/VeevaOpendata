@@ -1,5 +1,5 @@
 # VeevaOpendata
 Workshop for Veeva Opendata
 
-[github pages] (https://pages.github.com/)
+本文档应用[github](https://pages.github.com/)
 

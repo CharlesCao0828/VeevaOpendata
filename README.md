@@ -13,5 +13,5 @@ Workshop for Veeva Opendata
 
 [Charles Repository][1]
 [Charles Repository][2]
-[1] www.baidu.com
-[2] www.google.com
+[1]:www.baidu.com
+[2]:www.google.com
